@@ -1,0 +1,16 @@
+{
+    "name": "rb-cohen/blackvue-download",
+    "description": "Download video files from BlackVue dashcam on local network",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "splitbrain/php-cli": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arron Woods",
+            "email": "me@arronwoods.com"
+        }
+    ]
+}
